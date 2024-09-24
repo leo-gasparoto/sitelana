@@ -1,0 +1,36 @@
+
+
+body{
+    background-color: lightslategray;
+}
+
+.suporte{
+    display: flex;
+    align-items: center;
+    height: 380px;
+}
+
+.Suportecliente{
+    display: flex;
+    justify-content: center;
+    color: lightslategrey;
+    padding-right: 15px;
+}
+
+.logo{
+    display: flex;
+    align-items: end;
+    padding-left: 150px;
+}
+
+.alinhar{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 3rem;
+}
+
+img{
+    padding: 85px;
+}
+
